@@ -1,6 +1,6 @@
 # https://docs.github.com/en/actions/quickstart
 name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} is testing out GitHub Actions Runner Controller 🚀
 on: [push]
 jobs:
   Explore-GitHub-Actions:
