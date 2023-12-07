@@ -1,5 +1,5 @@
 # https://docs.github.com/en/actions/quickstart
-name: GitHub Actions RDemo
+name: GitHub Actions RC Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions Runner Controller 🚀
 on: [push]
 jobs:
